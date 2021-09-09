@@ -15,7 +15,7 @@ The AWS Lambda function code and the Test Events used to test the Lambda are als
 
 ## Example
 
-![RoboAdvisor with Lambda](roboadvisor_with_lambda_example.png)
+![RoboAdvisor with Lambda](Images/roboadvisor_with_lambda_example.png)
 
 ---
 
